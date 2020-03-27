@@ -26,6 +26,6 @@
   ],
   "dependencies": {
     "jquery": ">= 1.7.2",
-    "samplebower2": "1.0.1"
+    "samplebower2": "1.5.7"
   }
 }
